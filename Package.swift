@@ -25,8 +25,8 @@ let package = Package(
 				path: "Sources"),
 		.binaryTarget(
 			name: "GXAppleMapsSDMaps",
-			url: "https://pkgs.genexus.dev/iOS/beta/GXAppleMapsSDMaps-1.0.0-beta+20230316174639.xcframework.zip",
-			checksum: "44210cf17569e50bad1c7f2671a74eec783ddb518d8bdd4efa65097989f1fa6f"
+			url: "https://pkgs.genexus.dev/iOS/beta/GXAppleMapsSDMaps-1.0.0-beta+20230321182636.xcframework.zip",
+			checksum: "a6a1f3144b6169e1977cf48674ac19c57fd5775f3b124e7be1031cf4ac2baca4"
 		)
 	]
 )
